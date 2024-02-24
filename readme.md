@@ -9,5 +9,5 @@ CSS
 JavaScript
 ```
 
-[![GitHub](https://github.com/LilianeRodriguesPamplona)]
-[![LinkedIn](https://www.linkedin.com/in/lilianerodriguess)]
+[GitHub](https://github.com/LilianeRodriguesPamplona)
+[LinkedIn](https://www.linkedin.com/in/lilianerodriguess)
